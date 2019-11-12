@@ -1,0 +1,2 @@
+# guiasenior
+Códigos e plugins
